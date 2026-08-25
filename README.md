@@ -93,16 +93,6 @@ Die Reihe ist ursprünglich als Lernmaterial für die Ausbildung entstanden und 
 
 ---
 
-## Herkunft und Danksagung
-
-Der Ursprung der Idee liegt beim Projekt [Bjorn](https://github.com/infinition/Bjorn) von **infinition**.
-
-Die Verbindung zwischen Wikinger, Raspberry Pi und Cybersecurity war der Ausgangspunkt für die Idee, daraus eine Figur für eine humorvolle IT-Lernreihe zu entwickeln.
-
-Vielen Dank an infinition für das Open-Source-Projekt und die Inspiration.
-
----
-
 ## Lizenz
 
 Die Lizenzierung der eigenen Inhalte dieses Projekts wird im Repository gesondert geregelt.
