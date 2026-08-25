@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="assets/banner.png" alt="Björn Cyberviking" width="100%">
+  <img src="Assets/banner.png" alt="Björn Cyberviking" width="100%">
 
 </p>
 # Björn Cyberviking
