@@ -1,8 +1,7 @@
 <p align="center">
-
   <img src="Assets/banner.PNG" alt="Björn Cyberviking" width="100%">
-
 </p>
+
 # Björn Cyberviking
 
 Björn Cyberviking ist eine Comic- und Lernreihe, die aus einer einfachen Idee entstanden ist: 
