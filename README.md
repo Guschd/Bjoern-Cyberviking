@@ -12,9 +12,12 @@ Deshalb entstand die Idee, technische Themen in kleine Geschichten und eine Wiki
 Der erste Teil der Reihe orientiert sich dabei bewusst an Bjorn, dem Cybersecurity-Projekt von infinition. Aus einem Raspberry-Pi-Projekt mit einer kleinen Wikingerfigur entstand die Idee, Björn auf eine Reise durch die Welt der IT zu schicken.
 Aus dieser zunächst kleinen Idee entwickelte sich nach und nach eine umfangreichere Comic- und Lernreihe.
 
+## Direkter Einstieg in die Comics
+
+[Die große Angriffsaga](/comics/Die  große Angriffsaga SD.pdf))
 ---
 
-## Der Ursprung
+## Die Entstehung von Björn
 
 Die Idee zu Björn Cyberviking entstand durch das Open-Source-Projekt [Bjorn](https://github.com/infinition/Bjorn) von **infinition**.
 Bjorn ist ein Raspberry-Pi-Projekt, das ein spielerisches Cybersecurity-Konzept mit einer Wikingerfigur verbindet. Nachdem Bjorn auf einem Raspberry Pi Zero W aufgebaut wurde, entstand die Idee, die Figur für etwas völlig anderes einzusetzen: als Ausgangspunkt für humorvolle Erklärungen von IT-Themen.
