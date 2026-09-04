@@ -8,11 +8,8 @@ Björn Cyberviking ist eine Comic- und Lernreihe, die aus einer einfachen Idee e
 IT-Ausbildung darf auch Spaß machen.
 
 Viele Themen aus Netzwerktechnik und Informatik sind zunächst ziemlich abstrakt. Routing-Protokolle, Broadcasts, Datenpakete oder Netzwerktopologien lassen sich technisch erklären – aber gerade für Auszubildende ist es manchmal einfacher, einen Zusammenhang zuerst zu sehen und zu erleben.
-
 Deshalb entstand die Idee, technische Themen in kleine Geschichten und eine Wikingerwelt zu übertragen.
-
 Der erste Teil der Reihe orientiert sich dabei bewusst an Bjorn, dem Cybersecurity-Projekt von infinition. Aus einem Raspberry-Pi-Projekt mit einer kleinen Wikingerfigur entstand die Idee, Björn auf eine Reise durch die Welt der IT zu schicken.
-
 Aus dieser zunächst kleinen Idee entwickelte sich nach und nach eine umfangreichere Comic- und Lernreihe.
 
 ---
@@ -20,7 +17,6 @@ Aus dieser zunächst kleinen Idee entwickelte sich nach und nach eine umfangreic
 ## Der Ursprung
 
 Die Idee zu Björn Cyberviking entstand durch das Open-Source-Projekt [Bjorn](https://github.com/infinition/Bjorn) von **infinition**.
-
 Bjorn ist ein Raspberry-Pi-Projekt, das ein spielerisches Cybersecurity-Konzept mit einer Wikingerfigur verbindet. Nachdem Bjorn auf einem Raspberry Pi Zero W aufgebaut wurde, entstand die Idee, die Figur für etwas völlig anderes einzusetzen: als Ausgangspunkt für humorvolle Erklärungen von IT-Themen.
 
 Björn Cyberviking ist kein offizieller Bestandteil des ursprünglichen Bjorn-Projekts und steht in keiner offiziellen Verbindung zu dessen Autor. Die Comicreihe ist eine eigenständige kreative und didaktische Weiterentwicklung.
@@ -32,11 +28,8 @@ Björn Cyberviking ist kein offizieller Bestandteil des ursprünglichen Bjorn-Pr
 Björn reist durch eine Welt, in der technische Konzepte eine sichtbare Form bekommen.
 
 Netzwerke werden zu Landschaften und Wegen. Datenpakete können reisen. Routing-Protokolle treffen Entscheidungen. Ein Broadcast kann plötzlich ein Problem für ein ganzes Dorf werden.
-
 Die Geschichten sollen dabei nicht die technische Erklärung ersetzen.
-
 Die Wikingerwelt dient als visuelle Metapher. Sie soll helfen, technische Zusammenhänge zunächst intuitiv zu erfassen, bevor die eigentlichen technischen Hintergründe erklärt werden.
-
 Das Ziel ist nicht, Informatik so weit zu vereinfachen, dass sie fachlich falsch wird.
 
 Das Ziel ist, einen Einstieg zu schaffen, der im Gedächtnis bleibt.
