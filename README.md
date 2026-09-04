@@ -14,7 +14,8 @@ Aus dieser zunächst kleinen Idee entwickelte sich nach und nach eine umfangreic
 
 Direkter Einstieg in die Comics
 
-[Björn Die Netzwerksaga](/comics/Bjo%25CC%2588rn%2520-%2520Die%2520Netzwerksaga%2520SD.pdf)
+[Björn Die Netzwerksaga](/comics/Bjoern-Netzwerksaga-SD.pdf)
+[Björn Die Angriffssaga](/comics/Bjoern-Angriffssaga-SD.pdf)
 
 ---
 
