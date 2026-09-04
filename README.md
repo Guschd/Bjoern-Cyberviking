@@ -14,7 +14,8 @@ Aus dieser zunächst kleinen Idee entwickelte sich nach und nach eine umfangreic
 
 ## Direkter Einstieg in die Comics
 
-[Die große Angriffsaga](/comics/Die  große Angriffsaga SD.pdf))
+[Die große Angriffsaga](/comics/Die große Angriffsaga SD.pdf)
+
 ---
 
 ## Die Entstehung von Björn
