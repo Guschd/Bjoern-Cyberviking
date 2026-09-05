@@ -19,6 +19,13 @@ Direkter Einstieg in die Comics
 - [Björn Das Netzwerkreich Kapitel 1](/comics/Bjoern-Netzwerkreich-C1.pdf)
 - [Björn Das Netzwerkreich Kapitel 2](/comics/Bjoern-Netzwerkreich-C2.pdf)
 
+Unterrichtsmaterial für Tutoren
+
+- [Curriculum Kapitel 1](/learn/Bjoern-Netzwerkreich-C1-Curriculum.pdf)
+- [Curriculum Kapitel 2](/learn/Bjoern-Netzwerkreich-C2-Curriculum.pdf)
+
+- [FISI Netzwerkgrundlagen](/learn/SI-NW-01.pdf)
+- [FISI Engeräte und Kommunikation](/learn/SI-NW-02.pdf)
 
 ---
 
