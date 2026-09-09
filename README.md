@@ -26,7 +26,7 @@ Unterrichtsmaterial für Tutoren
 - [FISI Netzwerkgrundlagen](/learn/SI-NW-01.pdf)
 - [FISI Engeräte und Kommunikation](/learn/SI-NW-02.pdf)
 - [FISI Datenübertragung](/learn/SI-NW-03.pdf)
-- [FISI Topologien und Netzwerkstrukturen](/learn/SI-NW-04.pdf)
+- [FISI Topologien und Strukturen](/learn/SI-NW-04.pdf)
 - [FISI Kommunikationsarten](/learn/SI-NW-05.pdf)
 - [FISI Netzwerkmodelle und OSI](/learn/SI-NW-06.pdf)
 - [FISI Netzwerkprotokolle und Dienste](/learn/SI-NW-07.pdf)
