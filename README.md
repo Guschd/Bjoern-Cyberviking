@@ -31,7 +31,10 @@ Unterrichtsmaterial für Tutoren
 - [FISI Netzwerkmodelle und OSI](/learn/SI-NW-06.pdf)
 - [FISI Netzwerkprotokolle und Dienste](/learn/SI-NW-07.pdf)
 - [FISI IP-Adressierung](/learn/SI-NW-08.pdf)
-
+- [FISI Subnetting](/learn/SI-NW-09.pdf)
+- [FISI Switching und MAC Kommmnikation](/learn/SI-NW-10.pdf)
+- [FISI VLAN und Netzwerksegmentierung](/learn/SI-NW-11.pdf)
+- [FISI Routing](/learn/SI-NW-12.pdf)
 ---
 
 ## Die Entstehung von Björn
