@@ -19,6 +19,10 @@ Direkter Einstieg in die Comics
 - [Björn Das Netzwerkreich Kapitel 1](/comics/Bjoern-Netzwerkreich-C1.pdf)
 - [Björn Das Netzwerkreich Kapitel 2](/comics/Bjoern-Netzwerkreich-C2.pdf)
 
+Matchingtabelle der Comics und Module/Curricula
+
+- [FISI Modul-Matchingtable](/learn/SI-NW-Matchingtable.pdf)
+
 Unterrichtsmaterial für Tutoren
 
 - [Curriculum Kapitel 1](/learn/Bjoern-Netzwerkreich-C1-Curriculum.pdf)
