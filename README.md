@@ -36,7 +36,7 @@ Unterrichtsmaterial für Tutoren
 - [FISI Modul 07-Netzwerkprotokolle und Dienste](/learn/SI-NW-07.pdf)
 - [FISI Modul 08-IP-Adressierung](/learn/SI-NW-08.pdf)
 - [FISI Modul 09-Subnetting](/learn/SI-NW-09.pdf)
-- [FISI Modul 10-Switching und MAC Kommmnikation](/learn/SI-NW-10.pdf)
+- [FISI Modul 10-Switching und MAC Kommunikation](/learn/SI-NW-10.pdf)
 - [FISI Modul 11-VLAN und Netzwerksegmentierung](/learn/SI-NW-11.pdf)
 - [FISI Modul 12-Routing](/learn/SI-NW-12.pdf)
 - [FISI Modul 13-NAT](/learn/SI-NW-13.pdf)
