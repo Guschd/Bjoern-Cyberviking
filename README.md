@@ -42,6 +42,11 @@ Unterrichtsmaterial für Tutoren
 - [FISI Modul 13-NAT](/learn/SI-NW-13.pdf)
 - [FISI Modul 14-DHCP](/learn/SI-NW-14.pdf)
 - [FISI Modul 15-DNS...coming soon](/learn/SI-NW-15.pdf)
+
+Module zu LLM/AI
+- [LLM Modul 01-Was ist ein LLM](/learn/SI-LLM-01.pdf)
+- [LLM Modul 02-Token sund Predicttions](/learn/SI-LLM-02.pdf)
+- [LLM Modul 14-Prompt Injection](/learn/SI-LLM-14.pdf)
 ---
 
 ## Die Entstehung von Björn
