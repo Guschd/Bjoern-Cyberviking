@@ -41,7 +41,7 @@ Unterrichtsmaterial für Tutoren
 - [FISI Modul 12-Routing](/learn/SI-NW-12.pdf)
 - [FISI Modul 13-NAT](/learn/SI-NW-13.pdf)
 - [FISI Modul 14-DHCP](/learn/SI-NW-14.pdf)
-- [FISI Modul 15-DNS...coming soon](/learn/SI-NW-15.pdf)
+- [FISI Modul 15-DNS](/learn/SI-NW-15.pdf)
 
 Module zu LLM/AI
 - [LLM Modul 01-Was ist ein LLM](/learn/SI-LLM-01.pdf)
