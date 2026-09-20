@@ -22,6 +22,7 @@ Direkter Einstieg in die Comics
 Matchingtabelle der Comics und Module/Curricula
 
 - [FISI Modul-Matchingtable](/learn/SI-NW-Matchingtable.pdf)
+- [FISI Modul 02-Endgeräte und Kommunikation](/learn/SI-NW-02.pptx)
 
 Präsentation/Unterrichtseinheiten
 
