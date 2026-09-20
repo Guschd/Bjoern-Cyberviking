@@ -30,6 +30,7 @@ Unterrichtsmaterial für Tutoren
 - [FISI Modul 01-Netzwerkgrundlagen](/learn/SI-NW-01.pdf)
 - [FISI Modul 02-Endgeräte und Kommunikation](/learn/SI-NW-02.pdf)
 - [FISI Modul 03-Datenübertragung](/learn/SI-NW-03.pdf)
+- [FISI Modul 03-Technische Informationen](/learn/SI-NW-03-Techinfo.pdf)
 - [FISI Modul 04-Topologien und Strukturen](/learn/SI-NW-04.pdf)
 - [FISI Modul 05-Kommunikationsarten](/learn/SI-NW-05.pdf)
 - [FISI Modul 06-Netzwerkmodelle und OSI](/learn/SI-NW-06.pdf)
