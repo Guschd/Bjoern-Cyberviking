@@ -23,11 +23,6 @@ Matchingtabelle der Comics und Module/Curricula
 
 - [FISI Modul-Matchingtable](/learn/SI-NW-Matchingtable.pdf)
 
-Präsentation/Unterrichtseinheiten
-
-- [FISI Modul 01-Netzwerkgrundlagen](/learn/SI-NW-01.pptx)
-- [FISI Modul 02-Endgeräte und Kommunikation](/learn/SI-NW-02.pptx)
-
 Unterrichtsmaterial für Tutoren
 
 - [Curriculum Kapitel 1](/learn/Bjoern-Netzwerkreich-C1-Curriculum.pdf)
