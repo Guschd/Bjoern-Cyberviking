@@ -25,12 +25,12 @@ Matchingtabelle der Comics und Module/Curricula
 
 Unterrichtseinheiten
 
-- [Praesentation FISI Modul 1](/teach/SI-NW-01.odp)
-- [Unterrichtsvorbereitung FISI Modul 1](/teach/SI-NW-01-Lesson.pdf)
-- [Lernkontrolle FISI Modul 1](/teach/SI-NW-01-Test.pdf)
-- [Praesentation FISI Modul 2](/teach/SI-NW-02.odp)
-- [Unterrichtsvorbereitung FISI Modul 2](/teach/SI-NW-02-Lesson.pdf)
-- [Lernkontrolle FISI Modul 2](/teach/SI-NW-02-Test.pdf)
+- [FISI Modul 01 Präsentation](/teach/SI-NW-01.odp)
+- [FISI Modul 01 Unterrichtsvorbereitung](/teach/SI-NW-01-Lesson.pdf)
+- [FISI Modul 01 Lernkontrolle](/teach/SI-NW-01-Test.pdf)
+- [FISI Modul 02 Präsentation](/teach/SI-NW-02.odp)
+- [FISI Modul 02 Unterrichtsvorbereitung](/teach/SI-NW-02-Lesson.pdf)
+- [FISI Modul 02 Lernkontrolle](/teach/SI-NW-02-Test.pdf)
 
 Unterrichtsmaterial Netzwerke
 
