@@ -23,7 +23,11 @@ Matchingtabelle der Comics und Module/Curricula
 
 - [FISI Modul-Matchingtable](/learn/SI-NW-Matchingtable.pdf)
 
-Unterrichtsmaterial für Tutoren
+Unterrichtseinheiten
+
+- [Praesentation SI-NW-01](/teach/SI-NW-01.odp)
+
+Unterrichtsmaterial Netzwerke
 
 - [Curriculum Kapitel 1](/learn/Bjoern-Netzwerkreich-C1-Curriculum.pdf)
 - [Curriculum Kapitel 2](/learn/Bjoern-Netzwerkreich-C2-Curriculum.pdf)
@@ -44,7 +48,8 @@ Unterrichtsmaterial für Tutoren
 - [FISI Modul 14-DHCP](/learn/SI-NW-14.pdf)
 - [FISI Modul 15-DNS](/learn/SI-NW-15.pdf)
 
-Module zu LLM/AI
+Unterrichtsmaterialien zu LLM/AI
+
 - [LLM Modul 01-Was ist ein LLM](/learn/SI-LLM-01.pdf)
 - [LLM Modul 02-Tokens und Predicttions](/learn/SI-LLM-02.pdf)
 - [LLM Modul 03-Context und Memory](/learn/SI-LLM-03.pdf)
