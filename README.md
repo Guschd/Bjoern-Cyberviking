@@ -10,7 +10,7 @@ IT-Ausbildung darf auch Spaß machen.
 Viele Themen aus Netzwerktechnik und Informatik sind zunächst ziemlich abstrakt. Routing-Protokolle, Broadcasts, Datenpakete oder Netzwerktopologien lassen sich technisch erklären – aber gerade für Auszubildende ist es manchmal einfacher, einen Zusammenhang zuerst zu sehen und zu erleben.
 Deshalb entstand die Idee, technische Themen in kleine Geschichten und eine Wikingerwelt zu übertragen.
 Der erste Teil der Reihe orientiert sich dabei bewusst an Bjorn, dem Cybersecurity-Projekt von infinition. Aus einem Raspberry-Pi-Projekt mit einer kleinen Wikingerfigur entstand die Idee, Björn auf eine Reise durch die Welt der IT zu schicken.
-Aus dieser zunächst kleinen Idee entwickelte sich nach und nach eine umfangreichere Comic- und Lernreihe.
+Aus dieser zunächst kleinen Idee entwickelte sich nach und nach eine umfangreichere Comic- und Lernreihe inkl. Präsentation und Vorbereitungsmaterial für Tutoren.
 
 Direkter Einstieg in die Comics
 
