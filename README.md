@@ -69,8 +69,6 @@ Unterrichtsmaterialien zu LLM/AI
 - [LLM Modul 03-Context und Memory](/learn/SI-LLM-03.pdf)
 - [LLM Modul 14-Prompt Injection](/learn/SI-LLM-14.pdf)
 
----
-
 ## Die Entstehung von Björn
 
 Die Idee zu Björn Cyberviking entstand durch das Open-Source-Projekt [Bjorn](https://github.com/infinition/Bjorn) von **infinition**.
