@@ -76,7 +76,6 @@ Bjorn ist ein Raspberry-Pi-Projekt, das ein spielerisches Cybersecurity-Konzept 
 
 Björn Cyberviking ist kein offizieller Bestandteil des ursprünglichen Bjorn-Projekts und steht in keiner offiziellen Verbindung zu dessen Autor. Die Comicreihe ist eine eigenständige kreative und didaktische Weiterentwicklung.
 
----
 
 ## Die Idee hinter der Reihe
 
@@ -89,7 +88,6 @@ Das Ziel ist nicht, Informatik so weit zu vereinfachen, dass sie fachlich falsch
 
 Das Ziel ist, einen Einstieg zu schaffen, der im Gedächtnis bleibt.
 
----
 
 ## Für wen ist die Reihe gedacht?
 
@@ -97,7 +95,6 @@ Ursprünglich entstand Björn Cyberviking für die Auszubildenden in einer IT-Ab
 Die Inhalte richten sich vor allem an Menschen, die sich mit den Grundlagen der Informatik, Netzwerktechnik und IT-Security beschäftigen. Sie sollen aber auch für andere IT-Interessierte verständlich sein.
 Aber auch Tutoren und Ausbilder finden hier Material zur Unterrichtsvorbereitung und Lernerfolgskkntrolle.
 
----
 
 ## Themen
 
@@ -117,7 +114,6 @@ Die Reihe wird schrittweise erweitert. Dazu gehören unter anderem:
 - Firewalls und Netzwerksegmentierung
 - Grundlagen der IT-Security
 
----
 
 ## Aufbau eines Kapitels
 
@@ -135,7 +131,6 @@ Je nach Thema besteht ein Kapitel aus mehreren Teilen:
 4. **Notizen und Übungen**  
    Platz für eigene Ergänzungen und Gedanken.
 
----
 
 ## Projektstatus
 
@@ -143,7 +138,6 @@ Björn Cyberviking befindet sich in Entwicklung.
 
 Die Reihe ist ursprünglich als Lernmaterial für die Ausbildung entstanden und wird Schritt für Schritt erweitert. Neue Themen und Kapitel kommen hinzu, wenn aus einer technischen Idee auch eine gute Geschichte für Björn werden kann.
 
----
 
 ## Lizenz
 
