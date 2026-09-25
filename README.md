@@ -94,6 +94,7 @@ Das Ziel ist, einen Einstieg zu schaffen, der im Gedächtnis bleibt.
 Ursprünglich entstand Björn Cyberviking für die Auszubildenden in einer IT-Abteilung.
 Die Inhalte richten sich vor allem an Menschen, die sich mit den Grundlagen der Informatik, Netzwerktechnik und IT-Security beschäftigen. Sie sollen aber auch für andere IT-Interessierte verständlich sein.
 Aber auch Tutoren und Ausbilder finden hier Material zur Unterrichtsvorbereitung und Lernerfolgskkntrolle.
+
 ---
 
 ## Themen
