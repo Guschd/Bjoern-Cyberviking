@@ -37,9 +37,9 @@ Unterrichtseinheiten
 - [FISI Modul 04 Präsentation](/teach/SI-NW-04.odp)
 - [FISI Modul 04 Unterrichtsvorbereitung](/teach/SI-NW-04-Lesson.pdf)
 - [FISI Modul 04 Lernkontrolle](/teach/SI-NW-04-Test.pdf)
-- [FISI Modul 04 Präsentation](/teach/SI-NW-05.odp)
-- [FISI Modul 04 Unterrichtsvorbereitung](/teach/SI-NW-05-Lesson.pdf)
-- [FISI Modul 04 Lernkontrolle](/teach/SI-NW-05-Test.pdf)
+- [FISI Modul 05 Präsentation](/teach/SI-NW-05.odp)
+- [FISI Modul 05 Unterrichtsvorbereitung](/teach/SI-NW-05-Lesson.pdf)
+- [FISI Modul 05 Lernkontrolle](/teach/SI-NW-05-Test.pdf)
 
 Unterrichtsmaterial Netzwerke
 
