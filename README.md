@@ -16,7 +16,6 @@ Direkter Einstieg in die Comics
 
 - [Björn Die Netzwerksaga](/comics/Bjoern-Netzwerksaga-SD.pdf)
 - [Björn Die Angriffssaga](/comics/Bjoern-Angriffssaga-SD.pdf)
-- [Björn Die Netzwerksaga Druckversion](/comics/Bjoern-Netzwerksaga.pdf)
 - [Björn Die Angriffssaga Druckversion](/comics/Bjoern-Angriffssaga.pdf)
 - [Björn Das Netzwerkreich Kapitel 1](/comics/Bjoern-Netzwerkreich-C1.pdf)
 - [Björn Das Netzwerkreich Kapitel 2](/comics/Bjoern-Netzwerkreich-C2.pdf)
